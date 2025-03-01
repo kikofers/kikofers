@@ -6,7 +6,8 @@
 - ⚡ Fun fact: I'm passionate about cars.
 
 ## What programming languages I know:
-- C++
-- Python
-- php
-- SQL
+-	Python
+-	C++
+-	Java
+-	HTML
+-	SQL
